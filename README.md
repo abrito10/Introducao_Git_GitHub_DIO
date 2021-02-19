@@ -4,3 +4,4 @@ Bem vindo ao livro de receitas
 
 - Receita1 - Bolo de chocolate com morangos 
 
+- Receita2
